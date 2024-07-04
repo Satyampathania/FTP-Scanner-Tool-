@@ -29,7 +29,7 @@ The FTP Scanner Tool is a Python-based cybersecurity utility designed to identif
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Satyampathania/FTP-Scanner-Tool.git
+    git clone https://github.com/Satyampathania/FTP-Scanner-Tool-.git
     cd FTP-Scanner-Tool
     ```
 
