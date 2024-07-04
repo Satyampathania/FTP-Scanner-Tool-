@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/383cbad2-2a99-4011-b5a0-034a634df337" alt="FTP Scanner Tool Logo" width="300">
-</p>
-
 <h1 align="center">FTP Scanner Tool</h1>
 
 <p align="center">
+
+  <p align="center">
+![WhatsApp Image 2024-07-05 at 04 42 14_e89861c0](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/4c705664-1eee-458b-831e-c53fd1f1f613) alt="FTP Scanner Tool Logo" width="300">
+</p>
+
   <b>A cybersecurity tool to detect FTP servers allowing anonymous login</b>
 </p>
 
