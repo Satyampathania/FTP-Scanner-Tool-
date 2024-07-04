@@ -1,28 +1,31 @@
-# FTP-Scanner-Tool-
+<p align="center">
+  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/383cbad2-2a99-4011-b5a0-034a634df337" alt="FTP Scanner Tool Logo" width="300">
+</p>
 
-![WhatsApp Image 2024-07-05 at 04 42 14_49c3d1bd](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/383cbad2-2a99-4011-b5a0-034a634df337)
+<h1 align="center">FTP Scanner Tool</h1>
 
+<p align="center">
+  <b>A cybersecurity tool to detect FTP servers allowing anonymous login</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/188f1746-0361-4062-a1b2-160a1d1d0587" alt="Code Screenshot">
+</p>
 
 ## Overview
 
-The Anonymous FTP Scanner is a cybersecurity tool designed to identify FTP servers that allow anonymous login. This tool scans a specified range of IP addresses and attempts to log in to any discovered FTP servers using anonymous credentials. It features a user-friendly GUI with a red and black fire-themed design.
+The FTP Scanner Tool is a Python-based cybersecurity utility designed to identify FTP servers that allow anonymous login. It scans a specified range of IP addresses and attempts to log in anonymously to any discovered FTP servers.
 
 ## Features
 
-- Scans a range of IP addresses for FTP servers
-- Attempts anonymous login on discovered FTP servers
-- Displays results in a user-friendly GUI
-- Red and black fire-themed interface
+- **IP Range Scanning:** Scan a range of IP addresses for FTP servers.
+- **Anonymous Login:** Attempt anonymous login on discovered FTP servers.
+- **User-Friendly GUI:** Display results in a clear and intuitive graphical interface.
+- **Stylish Design:** Red and black fire-themed interface for a sleek look.
 
-## Screenshots
-
-### CODE
-![WhatsApp Image 2024-07-05 at 04 33 42_ae0a5ade](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/188f1746-0361-4062-a1b2-160a1d1d0587)
-
-
-### MAIN INTERFACE
-![WhatsApp Image 2024-07-05 at 04 36 24_398c118e](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/ea61c10e-43f2-4f15-8c21-5327c183bf1b)
-
+<p align="center">
+  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/ea61c10e-43f2-4f15-8c21-5327c183bf1b" alt="Main Interface Screenshot">
+</p>
 
 ## Getting Started
 
@@ -36,12 +39,14 @@ The Anonymous FTP Scanner is a cybersecurity tool designed to identify FTP serve
 ### Installation
 
 1. Clone the repository:
+
     ```bash
-    git clone https://github.com/Satyampathania/anonymous-ftp-scanner.git
-    cd anonymous-ftp-scanner
+    git clone https://github.com/Satyampathania/FTP-Scanner-Tool.git
+    cd FTP-Scanner-Tool
     ```
 
 2. Run the script:
+
     ```bash
     python ftp_scanner.py
     ```
@@ -70,9 +75,8 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Created by [Satyam pathania](https://github.com/Satyampathania) - feel free to contact me!
-
+Created by [Satyam Pathania](https://github.com/Satyampathania) - feel free to contact me!
