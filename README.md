@@ -1,6 +1,7 @@
 # FTP-Scanner-Tool-
 
-![WhatsApp Image 2024-07-05 at 04 41 11_89b1f363](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/8e152661-c4fb-45a7-878c-bb5f2b69661a)
+![WhatsApp Image 2024-07-05 at 04 42 14_49c3d1bd](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/383cbad2-2a99-4011-b5a0-034a634df337)
+
 
 ## Overview
 
