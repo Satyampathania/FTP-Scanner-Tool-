@@ -15,13 +15,6 @@ The FTP Scanner Tool is a Python-based cybersecurity utility designed to identif
 - **User-Friendly GUI:** Display results in a clear and intuitive graphical interface.
 - **Stylish Design:** Red and black fire-themed interface for a sleek look.
 
-## Screenshots
-
-<!-- Add screenshots here -->
-- ![WhatsApp Image 2024-07-05 at 04 33 42_63d91875](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/8d9d039c-72ef-4db8-a82b-e10d344eab19)
-
-- ![WhatsApp Image 2024-07-05 at 04 36 24_590f73d9](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/ca237dea-8971-43fa-b566-2b2a7a0f45f0)
-
 ## Getting Started
 
 ### Prerequisites
@@ -63,6 +56,14 @@ This range includes the following IP addresses:
 - 192.168.1.3
 - 192.168.1.4
 - 192.168.1.5
+
+## Screenshots
+
+![WhatsApp Image 2024-07-05 at 04 33 42_48973b13](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/28519145-cc2a-4bf0-bcb4-df96b29b3005)
+
+
+![WhatsApp Image 2024-07-05 at 04 36 24_7d1fb215](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/19b83c46-be6e-4cdb-b5e2-63bcf3201e09)
+
 
 ## Contributing
 
