@@ -18,9 +18,9 @@ The FTP Scanner Tool is a Python-based cybersecurity utility designed to identif
 ## Screenshots
 
 <!-- Add screenshots here -->
-- [Screenshot 1](#)
-- [Screenshot 2](#)
-- [Screenshot 3](#)
+- ![WhatsApp Image 2024-07-05 at 04 33 42_63d91875](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/8d9d039c-72ef-4db8-a82b-e10d344eab19)
+
+- ![WhatsApp Image 2024-07-05 at 04 36 24_590f73d9](https://github.com/Satyampathania/FTP-Scanner-Tool-/assets/71765680/ca237dea-8971-43fa-b566-2b2a7a0f45f0)
 
 ## Getting Started
 
