@@ -1,15 +1,7 @@
 <h1 align="center">FTP Scanner Tool</h1>
 
 <p align="center">
-  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/4c705664-1eee-458b-831e-c53fd1f1f613" alt="FTP Scanner Tool Logo" width="300">
-</p>
-
-<p align="center">
   <b>A cybersecurity tool to detect FTP servers allowing anonymous login</b>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/188f1746-0361-4062-a1b2-160a1d1d0587" alt="Code Screenshot">
 </p>
 
 ## Overview
@@ -23,9 +15,12 @@ The FTP Scanner Tool is a Python-based cybersecurity utility designed to identif
 - **User-Friendly GUI:** Display results in a clear and intuitive graphical interface.
 - **Stylish Design:** Red and black fire-themed interface for a sleek look.
 
-<p align="center">
-  <img src="https://github.com/Satyampathania/FTP-Scanner-Tool/assets/71765680/ea61c10e-43f2-4f15-8c21-5327c183bf1b" alt="Main Interface Screenshot">
-</p>
+## Screenshots
+
+<!-- Add screenshots here -->
+- [Screenshot 1](#)
+- [Screenshot 2](#)
+- [Screenshot 3](#)
 
 ## Getting Started
 
